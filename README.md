@@ -1,4 +1,18 @@
+A full-stack AI chatbot I built from scratch using Next.js 14, OpenAI, Tailwind CSS, and PostgreSQL. This app connects to GPT models (like GPT-4o or xAI’s Grok), stores chat history, and gives users a clean, responsive interface to talk to a custom AI assistant.
 
+
+
+
+
+
+✨ Why I Built It
+
+I wanted my own AI assistant that looked clean, responded fast, and could be customized on the fly. Instead of using a template, I built it all myself to:
+
+Learn full-stack AI dev using modern tools
+Customize prompts, models, and storage
+Make it easy to swap in different LLMs (OpenAI, xAI, etc.)
+Control both the backend and the UI
 <p align="center">
   <a href="https://chat-sdk.dev"><strong>Read Docs</strong></a> ·
   <a href="#features"><strong>Features</strong></a> ·
